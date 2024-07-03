@@ -5,7 +5,6 @@ edition = "2021"
 
 [dependencies]
 candle-core = { version = "0.6.0" }
-candle-nn = { version = "0.6.0" }
 candle-transformers = { version = "0.6.0" }
 hf-hub = { version = "0.3.2", features = ["tokio"] }
 rand = "0.8"

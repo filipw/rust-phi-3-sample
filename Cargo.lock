@@ -1383,7 +1383,6 @@ name = "phi-console-app"
 version = "0.1.0"
 dependencies = [
  "candle-core",
- "candle-nn",
  "candle-transformers",
  "hf-hub",
  "rand",
